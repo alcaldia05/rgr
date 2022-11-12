@@ -10,7 +10,7 @@ converter = []
 
 API_ID = 19961504
 API_HASH = '28de3a8f4b68b388bfe47bf84d1b124b'
-Token = '5688131125:AAE5LsZdA-T-TmrCWq-yDDNpRb0fbEEoOrY' #token del bot
+Token = '5456547510:AAH9nSucfKJpcTDQPyHlJD3R-nzsoqPEhCQ' #token del bot
 
 bot = Client('session', api_id=API_ID, api_hash=API_HASH, bot_token=Token)
 
